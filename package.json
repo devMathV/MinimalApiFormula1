@@ -1,0 +1,22 @@
+{
+  "name": "apicomfastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node --env-file=.env src/server.ts",
+    "start:watch": "node --watch --env-file=.env src/server.ts",
+    "install": "npm i fastify @fastify/cors && npm i typescript -D"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "fastify": "^5.7.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
