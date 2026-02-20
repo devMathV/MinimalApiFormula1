@@ -1,7 +1,7 @@
 # 🏎️ F1 Teams & Drivers API
 
 ## 📖 Sobre a API
-API RESTful desenvolvida com Fastify e TypeScript que fornece informações sobre equipes e pilotos de Fórmula 1. A API disponibiliza endpoints para consulta de times e pilotos, com suporte a busca individualizada de pilotos por ID.
+API desenvolvida com Fastify e TypeScript que fornece informações sobre equipes e pilotos de Fórmula 1. A API disponibiliza endpoints para consulta de times e pilotos, com suporte a busca individualizada de pilotos por ID.
 
 ## 🚀 Tecnologias
 - **Node.js** - Ambiente de execução JavaScript
